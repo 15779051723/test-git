@@ -15,4 +15,8 @@ public class UserDao {
         System.out.println("delete......");
     }
 
+    public void update() {
+        System.out.println("update.....");
+    }
+
 }
