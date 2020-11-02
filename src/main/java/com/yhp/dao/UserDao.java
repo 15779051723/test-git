@@ -11,4 +11,8 @@ public class UserDao {
         System.out.println("save......");
     }
 
+    public void delete() {
+        System.out.println("delete......");
+    }
+
 }
