@@ -19,4 +19,8 @@ public class UserDao {
         System.out.println("update.....");
     }
 
+    public void test() {
+        System.out.println("update.....");
+    }
+
 }
